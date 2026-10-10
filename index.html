@@ -39,6 +39,13 @@
   .btn{display:inline-block;margin-top:12px;background:var(--gold);color:#1a1405;font-weight:700;
     padding:10px 20px;border-radius:10px}
   .btn:hover{text-decoration:none;filter:brightness(1.08)}
+  .btn2{display:inline-block;margin:8px 8px 0 0;border:1px solid var(--gold);color:var(--gold2);
+    font-weight:700;padding:9px 18px;border-radius:10px;font-size:14px}
+  .btn2:hover{text-decoration:none;background:rgba(245,197,66,.12)}
+  .subh{color:var(--gold2);font-size:17px;margin:22px 0 10px;font-weight:700}
+  .hl{font-size:14px}
+  .hl strong{color:var(--text)}
+  .hl p{margin-top:4px}
   ul{margin:8px 0 8px 20px;color:var(--muted);font-size:15px}
   li{margin-bottom:6px}
   .est{font-size:13px;color:var(--muted);font-style:italic}
@@ -69,30 +76,85 @@
 
 <section>
   <h2>✈️🚆 Anreise ab München</h2>
-  <p class="sec-sub">Flugpreise sind Live-Angebote vom 10.10.2026 (Lufthansa nonstop, ca. 1h20). Zugpreise für Silvester sind erst ab 14.10. buchbar.</p>
+  <p class="sec-sub">Flugpreise: Live-Angebote vom 10.10.2026 (Economy, 1 Person, Lufthansa nonstop ca. 1h20). ICE für Silvester erst ab ca. 14.10. buchbar — Nightjet ggf. schon jetzt.</p>
   <div class="grid">
     <div class="card">
       <span class="tag best">Günstigster Flug</span>
       <h3>Do 31.12. → Sa 02.01.</h3>
-      <p>Hin LH2062, 11:30 → 12:50 · Zurück LH2071, 17:05 → 18:20, beide nonstop</p>
-      <p class="price">ab ca. 202 €</p>
+      <p>✈️ <strong>ab ca. 202 €</strong> — LH2062, MUC 11:30 → HAM 12:50 / LH2071, HAM 17:05 → MUC 18:20, beide nonstop.<br><span class="est">Alternativen: LH4114/LH2071 ab ca. 207 € · KLM via Amsterdam ab ca. 205 €</span></p>
+      <a class="btn" href="https://www.lufthansa.com" target="_blank" rel="noopener">Flug buchen</a>
+      <p style="margin-top:16px">🚆 <strong>Alternative:</strong> ICE am Silvestertag vormittags (ca. 5:35–6 h, Sparpreis ab ca. 22 €) — oder Nightjet NJ40420 am 31.12. (22:52 → 08:47): direkt in die Silvesternacht, Sitz ab 34,90 €.</p>
+      <a class="btn2" href="https://www.bahn.de" target="_blank" rel="noopener">DB prüfen</a>
+      <a class="btn2" href="https://www.nightjet.com" target="_blank" rel="noopener">Nightjet prüfen</a>
     </div>
     <div class="card">
       <span class="tag info">3 Tage</span>
       <h3>Mi 30.12. → Sa 02.01.</h3>
-      <p>Hin LH2078, 18:45 → 20:05 · Zurück LH2071, 17:05 → 18:20, beide nonstop</p>
-      <p class="price">ab ca. 202 €</p>
+      <p>✈️ <strong>ab ca. 202 €</strong> — LH2078, MUC 18:45 → HAM 20:05 / LH2071, HAM 17:05 → MUC 18:20, beide nonstop.<br><span class="est">Alternativen: LH2076/LH2071 ab ca. 209 € · LH2078/LH2079 ab ca. 212 €</span></p>
+      <a class="btn" href="https://www.lufthansa.com" target="_blank" rel="noopener">Flug buchen</a>
+      <p style="margin-top:16px">🚆 <strong>Alternative:</strong> ICE beide Tage flexibel (ca. 5:35–6 h, Sparpreis ab ca. 22 €) — oder Nightjet am 30.12. (22:52 → 08:47): Anreise + volle 3 Tage vor Ort, Liege ab 54,90 €.</p>
+      <a class="btn2" href="https://www.bahn.de" target="_blank" rel="noopener">DB prüfen</a>
+      <a class="btn2" href="https://www.nightjet.com" target="_blank" rel="noopener">Nightjet prüfen</a>
     </div>
     <div class="card">
       <span class="tag info">2 Tage</span>
       <h3>Mi 30.12. → Fr 01.01.</h3>
-      <p>Hin LH2078, 18:45 → 20:05 · Zurück z. B. LH2077, 19:35 → 20:50, nonstop</p>
-      <p class="price">ab ca. 212 €</p>
+      <p>✈️ <strong>ab ca. 212 €</strong> — LH2078, MUC 18:45 → HAM 20:05 / LH2077, HAM 19:35 → MUC 20:50, beide nonstop.<br><span class="est">Alternativen: Rückflug LH4115 (16:35) oder LH2063 (13:35), gleicher Preis</span></p>
+      <a class="btn" href="https://www.lufthansa.com" target="_blank" rel="noopener">Flug buchen</a>
+      <p style="margin-top:16px">🚆 <strong>Alternative:</strong> ICE hin am 30.12. möglich; Rückfahrt am Neujahrstag mit eingeschränktem Fahrplan — prüfen. Oder Nightjet am 30.12. abends → Ankunft 31.12. morgens: spart eine Hotelnacht.</p>
+      <a class="btn2" href="https://www.bahn.de" target="_blank" rel="noopener">DB prüfen</a>
+      <a class="btn2" href="https://www.nightjet.com" target="_blank" rel="noopener">Nightjet prüfen</a>
     </div>
   </div>
   <div class="note">
-    <strong>Zug-Alternative:</strong> ICE München–Hamburg ca. 5:35–6 h direkt. Super Sparpreis ab ca. 18 €, Sparpreis ab ca. 22 € pro Strecke — aber: der neue Fahrplan wird <strong>erst am 14.10.2026</strong> freigeschaltet, dann sofort buchen. Spartipp: Probe BahnCard 25 (17,90 € / 3 Monate).<br>
-    <strong>Nightjet-Trick:</strong> ÖBB Nightjet NJ40420, München 22:52 → Hamburg 08:47, Sitz ab 34,90 €, Liege ab 54,90 € — spart eine Hotel-Nacht, früh buchen.
+    <strong>Zug-Timing:</strong> Der neue DB-Fahrplan wird <strong>ca. 14.10.2026</strong> freigeschaltet — dann ICE-Sparpreise sofort buchen, am 30./31.12. sind sie schnell weg. Spartipp: Probe BahnCard 25 (17,90 € / 3 Monate, 25 % Rabatt). Nightjet: Verkauf läuft bereits bis 360 Tage im Voraus — Komfortkategorien zu Silvester ggf. schon ausgebucht.
+  </div>
+</section>
+
+<section>
+  <h2>🌟 Highlights — was die Community empfiehlt</h2>
+  <p class="sec-sub">Zusammengetragen aus Reiseforen &amp; Communities (Rick Steves Forum, Tripadvisor, Trippy, Google-Reviews, Instagram/TikTok). Mehrfachnennungen = fast Pflichtprogramm.</p>
+
+  <div class="subh">🏙️ Sehenswürdigkeiten</div>
+  <div class="grid">
+    <div class="card hl"><p><strong>Elbphilharmonie Plaza</strong></p><p>360° Hafenpanorama, öffentlich zugänglich — von fast allen Communities Pflichtprogramm.</p></div>
+    <div class="card hl"><p><strong>Speicherstadt (UNESCO) &amp; Miniatur Wunderland</strong></p><p>Nachts illuminiert; Wunderland-Tickets unbedingt vorab online buchen (Foren-Tipp).</p></div>
+    <div class="card hl"><p><strong>Alter Elbtunnel (1911)</strong></p><p>Kostenloser Art-déco-Tunnel unter der Elbe — morgens/abends menschenleer. ⚠️ An Silvester 21–4 Uhr gesperrt.</p></div>
+    <div class="card hl"><p><strong>Hafenfähre Linie 62</strong></p><p>Die „günstige Hafenrundfahrt": mit normalem HVV-Ticket ab Landungsbrücken, Bruchteil der Touristen-Preise.</p></div>
+    <div class="card hl"><p><strong>St. Michaelis („Michel")</strong></p><p>Barockkirche &amp; Wahrzeichen — klassischer Panoramablick vom Turm.</p></div>
+    <div class="card hl"><p><strong>Chilehaus &amp; Kontorhausviertel</strong></p><p>Backstein-Expressionismus in Schiffsform, nachts angestrahlt — beliebter Fotospot.</p></div>
+  </div>
+
+  <div class="subh">🌃 Kiez &amp; Nachtleben</div>
+  <div class="grid">
+    <div class="card hl"><p><strong>Reeperbahn-Tour (geführt)</strong></p><p>Foren-Konsens: „very much a must". Beatles-Platz, Große Freiheit, Schmidts Tivoli.</p></div>
+    <div class="card hl"><p><strong>Sternschanze &amp; Karolinenviertel</strong></p><p>Alternative zur Reeperbahn: weniger touristisch, Street Art, Indie-Läden, Kneipen- und Clubszene.</p></div>
+    <div class="card hl"><p><strong>Golden Pudel Club</strong></p><p>Kult-Club im ehemaligen Schmugglergefängnis, Eintritt ca. 8 € — ⚠️ nur Barzahlung.</p></div>
+    <div class="card hl"><p><strong>Uebel &amp; Gefährlich</strong></p><p>Club/Konzerte im Flakbunker — eine der ungewöhnlichsten Locations der Stadt; Programm vorab checken.</p></div>
+  </div>
+
+  <div class="subh">🍽️ Essen &amp; Trinken</div>
+  <div class="grid">
+    <div class="card hl"><p><strong>Fischmarkt (So ab 5 Uhr)</strong></p><p>Auktion, Live-Musik, Fischbrötchen am Wasser — in den Foren einhellig „MUST".</p></div>
+    <div class="card hl"><p><strong>Franzbrötchen</strong></p><p>Hamburgs Zimtgebäck-Spezialität — gibt's in jeder Bäckerei zum Frühstück.</p></div>
+    <div class="card hl"><p><strong>Fischbrötchen an der Elbe</strong></p><p>Matjes, Bismarck oder Räucherlachs mit Wasserblick: Fischmarkt, Landungsbrücken, Övelgönne.</p></div>
+  </div>
+
+  <div class="subh">❄️ Silvester-spezifisch</div>
+  <div class="grid">
+    <div class="card hl"><p><strong>Hafenfeuerwerk</strong></p><p>Gilt als zweitbestes Deutschlands. Hotspots Landungsbrücken/Stintfang — früh kommen! Ruhiger: Fischmarkt, Marco-Polo-Terrassen, Kaiserkai.</p></div>
+    <div class="card hl"><p><strong>Silvester-Schifffahrt</strong></p><p>Feuerwerk vom Wasser (z. B. Rainer Abicht): Essen, Musik, Hafenfeuerwerk. Reviews: „800 km angereist, hat sich gelohnt".</p></div>
+    <div class="card hl"><p><strong>Kiez-Originale</strong></p><p>Statt Ticket-Party: „Zum Silbersack" (oldschool), „Old Sailor" (Jukebox) — Strandpauli mit Feuerwerk-Blick.</p></div>
+  </div>
+
+  <div class="subh">🔍 Geheimtipps</div>
+  <div class="grid">
+    <div class="card hl"><p><strong>Ohlsdorf Friedhof</strong></p><p>Weltgrößter Parkfriedhof (390 ha) — wirkt wie ein Park, ideal für einen ruhigen Spaziergang.</p></div>
+    <div class="card hl"><p><strong>Blankenese Treppenviertel</strong></p><p>S-Bahn raus, durchs Treppenviertel runter zum Elbstrand; bei Ebbe Schiffswracks. Im Winter: klarer, windiger Spaziergang.</p></div>
+  </div>
+
+  <div class="note">
+    <strong>Winter-Hinweise:</strong> Am 31.12. schließt der Einzelhandel früher; sonntags und an Feiertagen sind Geschäfte zu. Der Elbtunnel ist in der Silvesternacht (21–4 Uhr) gesperrt — Feuerwerk trotzdem von Landungsbrücken/Stintfang aus erleben.
   </div>
 </section>
 
@@ -211,7 +273,7 @@
 </div>
 
 <footer>
-  Stand: 10.10.2026 · Flugpreise: Live-Angebote vom 10.10. · Hotel- &amp; DB-Preise für Silvester teils Schätzung — vor Buchung prüfen.<br>
+  Stand: 10.10.2026 · Flugpreise: Live-Angebote vom 10.10. · Highlights aus Community-Recherche · Hotel- &amp; DB-Preise für Silvester teils Schätzung — vor Buchung prüfen.<br>
   Alle Angaben ohne Gewähr.
 </footer>
 
