@@ -1,584 +1,584 @@
 {
- "varianten": [
-  {
-   "id": "A",
-   "tage": [
+  "varianten": [
     {
-     "stationen": [
-      {
-       "dauer": "1h20 + Transfer",
-       "kosten": "212,40 € (Round-Trip)",
-       "kurzinfo": "LH2078 nonstop, Ankunft 20:05",
-       "name": "Flug MUC → HAM"
-      },
-      {
-       "dauer": "25 Min",
-       "kosten": "8,20 € (Tagesticket)",
-       "kurzinfo": "S1 in die Stadt; ⚠️ HVV-Sonderfahrplan 2026/27 noch nicht veröffentlicht — kurz vor dem Trip prüfen",
-       "name": "S1 Flughafen → Stadt"
-      },
-      {
-       "dauer": "30 Min",
-       "kosten": "siehe Hotel-Check",
-       "kurzinfo": "Check-in, Lage je nach Hotel",
-       "name": "Hotel Check-in"
-      },
-      {
-       "dauer": "1 h",
-       "kosten": "0 €",
-       "kurzinfo": "Bummel über die Reeperbahn, Beatles-Platz",
-       "name": "Reeperbahn-Bummel"
-      },
-      {
-       "dauer": "45 Min",
-       "kosten": "~8–20 €",
-       "kurzinfo": "Currywurst oder portugiesisch essen",
-       "name": "Abendessen: Kiez Curry / Portugiesenviertel"
-      },
-      {
-       "dauer": "2 h",
-       "kosten": "~8 € (optional)",
-       "kurzinfo": "Kult-Club am Fischmarkt, nur Barzahlung",
-       "name": "Golden Pudel Club (optional)"
-      }
-     ],
-     "tag": "Tag 1 — Mi 30.12. (Anreise)"
+      "id": "A",
+      "tage": [
+        {
+          "stationen": [
+            {
+              "dauer": "1h20 + Transfer",
+              "kosten": "211 € (Round-Trip)",
+              "kurzinfo": "LH2078 nonstop, Ankunft 20:05",
+              "name": "Flug MUC → HAM"
+            },
+            {
+              "dauer": "25 Min",
+              "kosten": "8,20 € (Tagesticket)",
+              "kurzinfo": "S1 in die Stadt; ⚠️ HVV-Sonderfahrplan 2026/27 noch nicht veröffentlicht — kurz vor dem Trip prüfen",
+              "name": "S1 Flughafen → Stadt"
+            },
+            {
+              "dauer": "30 Min",
+              "kosten": "siehe Hotel-Check",
+              "kurzinfo": "Check-in, Lage je nach Hotel",
+              "name": "Hotel Check-in"
+            },
+            {
+              "dauer": "1 h",
+              "kosten": "0 €",
+              "kurzinfo": "Bummel über die Reeperbahn, Beatles-Platz",
+              "name": "Reeperbahn-Bummel"
+            },
+            {
+              "dauer": "45 Min",
+              "kosten": "~8–20 €",
+              "kurzinfo": "Currywurst oder portugiesisch essen",
+              "name": "Abendessen: Kiez Curry / Portugiesenviertel"
+            },
+            {
+              "dauer": "2 h",
+              "kosten": "~8 € (optional)",
+              "kurzinfo": "Kult-Club am Fischmarkt, nur Barzahlung",
+              "name": "Golden Pudel Club (optional)"
+            }
+          ],
+          "tag": "Tag 1 — Mi 30.12. (Anreise)"
+        },
+        {
+          "stationen": [
+            {
+              "dauer": "1,5 h",
+              "kosten": "0 €",
+              "kurzinfo": "UNESCO-Backsteinviertel, nachts illuminiert",
+              "name": "Speicherstadt"
+            },
+            {
+              "dauer": "20 Min",
+              "kosten": "0 €",
+              "kurzinfo": "Backstein-Expressionismus, Fotospot",
+              "name": "Chilehaus"
+            },
+            {
+              "dauer": "1,5 h",
+              "kosten": "ab 18,50 €",
+              "kurzinfo": "60-Min-Tour in völliger Dunkelheit mit blinden Guides",
+              "name": "Dialog im Dunkeln"
+            },
+            {
+              "dauer": "30 Min",
+              "kosten": "4–8 €",
+              "kurzinfo": "Fischbrötchen direkt an den Brücken",
+              "name": "Brücke 10 (Mittag)"
+            },
+            {
+              "dauer": "1 h",
+              "kosten": "5 €",
+              "kurzinfo": "360° Hafenpanorama, Zeitfenster online buchen",
+              "name": "Elbphilharmonie Plaza"
+            },
+            {
+              "dauer": "40 Min",
+              "kosten": "0 € (im HVV-Ticket)",
+              "kurzinfo": "Günstige Hafenrundfahrt mit der HVV-Fähre",
+              "name": "Fähre Linie 62"
+            },
+            {
+              "dauer": "30 Min",
+              "kosten": "0 €",
+              "kurzinfo": "Art-déco-Tunnel von 1911, tagsüber (nachts gesperrt)",
+              "name": "Alter Elbtunnel"
+            },
+            {
+              "dauer": "2h50",
+              "kosten": "ab 66,49 €",
+              "kurzinfo": "17:00-Vorstellung, Shuttle-Schiff ab Brücke 1 ab 15:30",
+              "name": "König der Löwen"
+            },
+            {
+              "dauer": "1 h",
+              "kosten": "~20–25 €",
+              "kurzinfo": "Labskaus beim Michel",
+              "name": "Abendessen: Krameramtsstuben"
+            },
+            {
+              "dauer": "bis 5:00",
+              "kosten": "0 € / 61,70 € / ~105 €",
+              "kurzinfo": "Feuerwerk Landungsbrücken (ab 22:00 positionieren) oder Party (Sommersalon/Karoline)",
+              "name": "Silvesternacht"
+            }
+          ],
+          "tag": "Tag 2 — Do 31.12. (Silvester)"
+        },
+        {
+          "stationen": [
+            {
+              "dauer": "30 Min",
+              "kosten": "~3 €",
+              "kurzinfo": "Hamburger Zimtgebäck in der Bäckerei",
+              "name": "Franzbrötchen-Frühstück"
+            },
+            {
+              "dauer": "2 h",
+              "kosten": "15 €",
+              "kurzinfo": "An Neujahr 10–18 geöffnet, HafenCity",
+              "name": "Internationales Maritimes Museum"
+            },
+            {
+              "dauer": "1 h",
+              "kosten": "~15 €",
+              "kurzinfo": "Mittag im Portugiesenviertel",
+              "name": "Casa Madeira"
+            },
+            {
+              "dauer": "25 Min",
+              "kosten": "0 € (im Tagesticket)",
+              "kurzinfo": "Rückflug; ⚠️ HVV-Sonderfahrplan 2026/27 noch nicht veröffentlicht",
+              "name": "S1 → Flughafen"
+            }
+          ],
+          "tag": "Tag 3 — Fr 01.01. (Neujahr, Rückreise)"
+        }
+      ],
+      "titel": "Mi 30.12.2026 → Fr 01.01.2027 (2 Tage)"
     },
     {
-     "stationen": [
-      {
-       "dauer": "1,5 h",
-       "kosten": "0 €",
-       "kurzinfo": "UNESCO-Backsteinviertel, nachts illuminiert",
-       "name": "Speicherstadt"
-      },
-      {
-       "dauer": "20 Min",
-       "kosten": "0 €",
-       "kurzinfo": "Backstein-Expressionismus, Fotospot",
-       "name": "Chilehaus"
-      },
-      {
-       "dauer": "1,5 h",
-       "kosten": "ab 18,50 €",
-       "kurzinfo": "60-Min-Tour in völliger Dunkelheit mit blinden Guides",
-       "name": "Dialog im Dunkeln"
-      },
-      {
-       "dauer": "30 Min",
-       "kosten": "4–8 €",
-       "kurzinfo": "Fischbrötchen direkt an den Brücken",
-       "name": "Brücke 10 (Mittag)"
-      },
-      {
-       "dauer": "1 h",
-       "kosten": "5 €",
-       "kurzinfo": "360° Hafenpanorama, Zeitfenster online buchen",
-       "name": "Elbphilharmonie Plaza"
-      },
-      {
-       "dauer": "40 Min",
-       "kosten": "0 € (im HVV-Ticket)",
-       "kurzinfo": "Günstige Hafenrundfahrt mit der HVV-Fähre",
-       "name": "Fähre Linie 62"
-      },
-      {
-       "dauer": "30 Min",
-       "kosten": "0 €",
-       "kurzinfo": "Art-déco-Tunnel von 1911, tagsüber (nachts gesperrt)",
-       "name": "Alter Elbtunnel"
-      },
-      {
-       "dauer": "2h50",
-       "kosten": "ab 66,49 €",
-       "kurzinfo": "17:00-Vorstellung, Shuttle-Schiff ab Brücke 1 ab 15:30",
-       "name": "König der Löwen"
-      },
-      {
-       "dauer": "1 h",
-       "kosten": "~20–25 €",
-       "kurzinfo": "Labskaus beim Michel",
-       "name": "Abendessen: Krameramtsstuben"
-      },
-      {
-       "dauer": "bis 5:00",
-       "kosten": "0 € / 61,70 € / ~105 €",
-       "kurzinfo": "Feuerwerk Landungsbrücken (ab 22:00 positionieren) oder Party (Sommersalon/Karoline)",
-       "name": "Silvesternacht"
-      }
-     ],
-     "tag": "Tag 2 — Do 31.12. (Silvester)"
+      "id": "B",
+      "tage": [
+        {
+          "stationen": [
+            {
+              "dauer": "1h20 + Transfer",
+              "kosten": "209 € (Round-Trip)",
+              "kurzinfo": "LH2062 nonstop, Ankunft 12:50",
+              "name": "Flug MUC → HAM"
+            },
+            {
+              "dauer": "25 Min",
+              "kosten": "8,20 € (Tagesticket)",
+              "kurzinfo": "S1 in die Stadt; ⚠️ HVV-Sonderfahrplan 2026/27 noch nicht veröffentlicht — kurz vor dem Trip prüfen",
+              "name": "S1 Flughafen → Stadt"
+            },
+            {
+              "dauer": "30 Min",
+              "kosten": "siehe Hotel-Check",
+              "kurzinfo": "Check-in",
+              "name": "Hotel Check-in"
+            },
+            {
+              "dauer": "30 Min",
+              "kosten": "0 €",
+              "kurzinfo": "Startpunkt Hafen",
+              "name": "Landungsbrücken"
+            },
+            {
+              "dauer": "40 Min",
+              "kosten": "0 € (im HVV-Ticket)",
+              "kurzinfo": "Kurze Hafenrunde mit der HVV-Fähre",
+              "name": "Fähre Linie 62"
+            },
+            {
+              "dauer": "45 Min",
+              "kosten": "5 €",
+              "kurzinfo": "Panorama vor der Musical-Zeit",
+              "name": "Elbphilharmonie Plaza"
+            },
+            {
+              "dauer": "2h50",
+              "kosten": "ab 66,49 €",
+              "kurzinfo": "17:00-Vorstellung, Shuttle ab Brücke 1 ab 15:30",
+              "name": "König der Löwen"
+            },
+            {
+              "dauer": "1 h",
+              "kosten": "~25 €",
+              "kurzinfo": "Labskaus im Kult-Restaurant seit 1795",
+              "name": "Abendessen: Old Commercial Room"
+            },
+            {
+              "dauer": "bis 5:00",
+              "kosten": "0 € / 61,70 € / ~105 €",
+              "kurzinfo": "Feuerwerk oder Party, danach Kiez",
+              "name": "Silvesternacht"
+            }
+          ],
+          "tag": "Tag 1 — Do 31.12. (Anreise + Silvester)"
+        },
+        {
+          "stationen": [
+            {
+              "dauer": "2,5 h",
+              "kosten": "15 €",
+              "kurzinfo": "Neun Decks Seefahrtsgeschichte, an Neujahr geöffnet",
+              "name": "Internationales Maritimes Museum"
+            },
+            {
+              "dauer": "2,5 h",
+              "kosten": "~22 €",
+              "kurzinfo": "Weltgrößte Modelleisenbahn, Zeitslot vorab buchen",
+              "name": "Miniatur Wunderland"
+            },
+            {
+              "dauer": "1 h",
+              "kosten": "8 €",
+              "kurzinfo": "Turm-Blick; ⚠️ Turm-Zeiten am 31.12./01.01. nicht verifiziert — vor Besuch prüfen (Gottesdienste + Silvesterkonzert 21:00 ab 16 € finden statt)",
+              "name": "Michel (St. Michaelis)"
+            },
+            {
+              "dauer": "1 h",
+              "kosten": "~18 €",
+              "kurzinfo": "Mittag im Portugiesenviertel",
+              "name": "Portugiesenviertel"
+            },
+            {
+              "dauer": "1,5 h",
+              "kosten": "~4–5 €",
+              "kurzinfo": "Alternative Ausgeh-Viertel, Street Art, Cappuccino",
+              "name": "Sternschanze"
+            },
+            {
+              "dauer": "1,5 h",
+              "kosten": "~25 €",
+              "kurzinfo": "Läuft auch am 1.1. (11:00/13:30/15:00) — abends haben die meisten Kiez-Clubs/Bars geschlossen",
+              "name": "Kieztour (Kiez-Kapitän, tagsüber)"
+            }
+          ],
+          "tag": "Tag 2 — Fr 01.01. (Neujahr)"
+        },
+        {
+          "stationen": [
+            {
+              "dauer": "1,5 h",
+              "kosten": "14 €",
+              "kurzinfo": "Zeitgenössische Kunst, nah am Hbf",
+              "name": "Deichtorhallen (Alternative: Chilehaus + Mö-Grill)"
+            },
+            {
+              "dauer": "1 h",
+              "kosten": "~4 €",
+              "kurzinfo": "Letzter Bummel, Jungfernstieg",
+              "name": "Innenstadt"
+            },
+            {
+              "dauer": "25 Min",
+              "kosten": "0 € (im Tagesticket)",
+              "kurzinfo": "Rückflug; ⚠️ HVV-Sonderfahrplan 2026/27 noch nicht veröffentlicht",
+              "name": "S1 → Flughafen"
+            }
+          ],
+          "tag": "Tag 3 — Sa 02.01. (Rückreise)"
+        }
+      ],
+      "titel": "Do 31.12.2026 → Sa 02.01.2027 (2 Tage)"
     },
     {
-     "stationen": [
-      {
-       "dauer": "30 Min",
-       "kosten": "~3 €",
-       "kurzinfo": "Hamburger Zimtgebäck in der Bäckerei",
-       "name": "Franzbrötchen-Frühstück"
-      },
-      {
-       "dauer": "2 h",
-       "kosten": "15 €",
-       "kurzinfo": "An Neujahr 10–18 geöffnet, HafenCity",
-       "name": "Internationales Maritimes Museum"
-      },
-      {
-       "dauer": "1 h",
-       "kosten": "~15 €",
-       "kurzinfo": "Mittag im Portugiesenviertel",
-       "name": "Casa Madeira"
-      },
-      {
-       "dauer": "25 Min",
-       "kosten": "0 € (im Tagesticket)",
-       "kurzinfo": "Rückflug; ⚠️ HVV-Sonderfahrplan 2026/27 noch nicht veröffentlicht",
-       "name": "S1 → Flughafen"
-      }
-     ],
-     "tag": "Tag 3 — Fr 01.01. (Neujahr, Rückreise)"
+      "id": "C",
+      "tage": [
+        {
+          "stationen": [
+            {
+              "dauer": "1h20 + Transfer",
+              "kosten": "200 € (Round-Trip)",
+              "kurzinfo": "LH2078 nonstop, Ankunft 20:05",
+              "name": "Flug MUC → HAM"
+            },
+            {
+              "dauer": "25 Min",
+              "kosten": "8,20 € (Tagesticket)",
+              "kurzinfo": "S1 in die Stadt; ⚠️ HVV-Sonderfahrplan 2026/27 noch nicht veröffentlicht — kurz vor dem Trip prüfen",
+              "name": "S1 Flughafen → Stadt"
+            },
+            {
+              "dauer": "30 Min",
+              "kosten": "siehe Hotel-Check",
+              "kurzinfo": "Check-in",
+              "name": "Hotel Check-in"
+            },
+            {
+              "dauer": "1 h",
+              "kosten": "0 €",
+              "kurzinfo": "Ankommen auf dem Kiez",
+              "name": "Reeperbahn-Bummel"
+            },
+            {
+              "dauer": "45 Min",
+              "kosten": "~8–20 €",
+              "kurzinfo": "Currywurst oder portugiesisch",
+              "name": "Abendessen"
+            }
+          ],
+          "tag": "Tag 1 — Mi 30.12. (Anreise)"
+        },
+        {
+          "stationen": [
+            {
+              "dauer": "1,5 h",
+              "kosten": "0 €",
+              "kurzinfo": "UNESCO-Viertel + Fotospot",
+              "name": "Speicherstadt & Chilehaus"
+            },
+            {
+              "dauer": "1,5 h",
+              "kosten": "ab 18,50 €",
+              "kurzinfo": "Dunkel-Tour mit blinden Guides",
+              "name": "Dialog im Dunkeln"
+            },
+            {
+              "dauer": "30 Min",
+              "kosten": "4–8 €",
+              "kurzinfo": "Fischbrötchen an den Brücken",
+              "name": "Brücke 10 (Mittag)"
+            },
+            {
+              "dauer": "1,5 h",
+              "kosten": "5 €",
+              "kurzinfo": "Plaza + HVV-Fähre + Elbtunnel (tagsüber)",
+              "name": "Elbphi Plaza / Fähre 62 / Elbtunnel"
+            },
+            {
+              "dauer": "2h50",
+              "kosten": "ab 66,49 €",
+              "kurzinfo": "17:00-Vorstellung",
+              "name": "König der Löwen"
+            },
+            {
+              "dauer": "1 h",
+              "kosten": "~20–25 €",
+              "kurzinfo": "Labskaus",
+              "name": "Abendessen: Krameramtsstuben"
+            },
+            {
+              "dauer": "bis 5:00",
+              "kosten": "0 € / 61,70 € / ~105 €",
+              "kurzinfo": "Feuerwerk oder Party",
+              "name": "Silvesternacht"
+            }
+          ],
+          "tag": "Tag 2 — Do 31.12. (Silvester)"
+        },
+        {
+          "stationen": [
+            {
+              "dauer": "2,5 h",
+              "kosten": "15 €",
+              "kurzinfo": "An Neujahr 10–18 geöffnet",
+              "name": "Internationales Maritimes Museum"
+            },
+            {
+              "dauer": "2,5 h",
+              "kosten": "~22 €",
+              "kurzinfo": "Zeitslot vorab buchen",
+              "name": "Miniatur Wunderland"
+            },
+            {
+              "dauer": "1 h",
+              "kosten": "8 €",
+              "kurzinfo": "Turm-Blick; ⚠️ Turm-Zeiten am 31.12./01.01. nicht verifiziert — vor Besuch prüfen (Gottesdienste + Silvesterkonzert 21:00 ab 16 € finden statt)",
+              "name": "Michel"
+            },
+            {
+              "dauer": "1 h",
+              "kosten": "~18 €",
+              "kurzinfo": "Mittag",
+              "name": "Portugiesenviertel"
+            },
+            {
+              "dauer": "1,5 h",
+              "kosten": "~4–5 €",
+              "kurzinfo": "Street Art, Cafés",
+              "name": "Sternschanze"
+            },
+            {
+              "dauer": "1,5 h",
+              "kosten": "~25 €",
+              "kurzinfo": "Läuft auch am 1.1. (11:00/13:30/15:00) — abends haben die meisten Kiez-Clubs/Bars geschlossen",
+              "name": "Kieztour (Kiez-Kapitän, tagsüber)"
+            }
+          ],
+          "tag": "Tag 3 — Fr 01.01. (Neujahr)"
+        },
+        {
+          "stationen": [
+            {
+              "dauer": "3 h",
+              "kosten": "0 €",
+              "kurzinfo": "Treppenviertel, Elbstrand, Schiffswracks bei Ebbe (S-Bahn ~30 Min)",
+              "name": "Blankenese"
+            },
+            {
+              "dauer": "45 Min",
+              "kosten": "4–8 €",
+              "kurzinfo": "Fischbrötchen seit 1980 am Fähranleger",
+              "name": "Nuggi's Elbkate (Mittag)"
+            },
+            {
+              "dauer": "25 Min",
+              "kosten": "0 € (im Tagesticket)",
+              "kurzinfo": "Rückflug; ⚠️ HVV-Sonderfahrplan 2026/27 noch nicht veröffentlicht",
+              "name": "S1 → Flughafen"
+            }
+          ],
+          "tag": "Tag 4 — Sa 02.01. (Rückreise)"
+        }
+      ],
+      "titel": "Mi 30.12.2026 → Sa 02.01.2027 (3 Tage)"
+    },
+    {
+      "id": "D",
+      "titel": "Do 31.12.2026 → So 03.01.2027 (3 Tage)",
+      "tage": [
+        {
+          "tag": "Tag 1 — Do 31.12. (Anreise + Silvester)",
+          "stationen": [
+            {
+              "name": "Flug MUC → HAM",
+              "dauer": "1h20",
+              "kosten": "166 € (Round-Trip)",
+              "kurzinfo": "Eurowings nonstop 9:15 → 10:35 (EW7171); Rückflug EW7174 19:10 → 20:25; LH-Alternative LH2054 07:45 → 09:05 ab 161 €"
+            },
+            {
+              "name": "S1 Flughafen → Stadt",
+              "dauer": "25 Min",
+              "kosten": "8,20 € (Tagesticket)",
+              "kurzinfo": "S1 in die Stadt; ⚠️ HVV-Sonderfahrplan 2026/27 noch nicht veröffentlicht — kurz vor dem Trip prüfen"
+            },
+            {
+              "name": "Hotel Check-in",
+              "dauer": "30 Min",
+              "kosten": "siehe Hotel-Check",
+              "kurzinfo": "Check-in"
+            },
+            {
+              "name": "Landungsbrücken",
+              "dauer": "30 Min",
+              "kosten": "0 €",
+              "kurzinfo": "Startpunkt Hafen"
+            },
+            {
+              "name": "Fähre Linie 62",
+              "dauer": "40 Min",
+              "kosten": "0 € (im HVV-Ticket)",
+              "kurzinfo": "Kurze Hafenrunde mit der HVV-Fähre"
+            },
+            {
+              "name": "Elbphilharmonie Plaza",
+              "dauer": "45 Min",
+              "kosten": "5 €",
+              "kurzinfo": "Panorama vor der Musical-Zeit"
+            },
+            {
+              "name": "König der Löwen",
+              "dauer": "2h50",
+              "kosten": "ab 66,49 €",
+              "kurzinfo": "17:00-Vorstellung, Shuttle ab Brücke 1 ab 15:30"
+            },
+            {
+              "name": "Abendessen: Old Commercial Room",
+              "dauer": "1 h",
+              "kosten": "~25 €",
+              "kurzinfo": "Labskaus im Kult-Restaurant seit 1795"
+            },
+            {
+              "name": "Silvesternacht",
+              "dauer": "bis 5:00",
+              "kosten": "0 € / 61,70 € / ~105 €",
+              "kurzinfo": "Feuerwerk oder Party, danach Kiez"
+            }
+          ]
+        },
+        {
+          "tag": "Tag 2 — Fr 01.01. (Neujahr)",
+          "stationen": [
+            {
+              "name": "Internationales Maritimes Museum",
+              "dauer": "2,5 h",
+              "kosten": "15 €",
+              "kurzinfo": "Neun Decks Seefahrtsgeschichte, an Neujahr geöffnet"
+            },
+            {
+              "name": "Miniatur Wunderland",
+              "dauer": "2,5 h",
+              "kosten": "~22 €",
+              "kurzinfo": "Weltgrößte Modelleisenbahn, Zeitslot vorab buchen"
+            },
+            {
+              "name": "Michel (St. Michaelis)",
+              "dauer": "1 h",
+              "kosten": "8 €",
+              "kurzinfo": "Turm-Blick; ⚠️ Turm-Zeiten am 31.12./01.01. nicht verifiziert — vor Besuch prüfen (Gottesdienste + Silvesterkonzert 21:00 ab 16 € finden statt)"
+            },
+            {
+              "name": "Portugiesenviertel",
+              "dauer": "1 h",
+              "kosten": "~18 €",
+              "kurzinfo": "Mittag im Portugiesenviertel"
+            },
+            {
+              "name": "Sternschanze",
+              "dauer": "1,5 h",
+              "kosten": "~4–5 €",
+              "kurzinfo": "Alternative Ausgeh-Viertel, Street Art, Cappuccino"
+            },
+            {
+              "name": "Kieztour (Kiez-Kapitän, tagsüber)",
+              "dauer": "1,5 h",
+              "kosten": "~25 €",
+              "kurzinfo": "Läuft auch am 1.1. (11:00/13:30/15:00) — abends haben die meisten Kiez-Clubs/Bars geschlossen"
+            }
+          ]
+        },
+        {
+          "tag": "Tag 3 — Sa 02.01.",
+          "stationen": [
+            {
+              "name": "Blankenese",
+              "dauer": "3 h",
+              "kosten": "0 €",
+              "kurzinfo": "Treppenviertel, Elbstrand, Schiffswracks bei Ebbe (S-Bahn ~30 Min)"
+            },
+            {
+              "name": "Nuggi's Elbkate (Mittag)",
+              "dauer": "45 Min",
+              "kosten": "4–8 €",
+              "kurzinfo": "Fischbrötchen seit 1980 am Fähranleger Övelgönne"
+            },
+            {
+              "name": "Gängeviertel",
+              "dauer": "1,5 h",
+              "kosten": "0 €",
+              "kurzinfo": "Künstlerquartier mit Galerien, Murals, Cafés"
+            },
+            {
+              "name": "Abendessen: Krameramtsstuben",
+              "dauer": "1 h",
+              "kosten": "~20–25 €",
+              "kurzinfo": "Labskaus beim Michel"
+            }
+          ]
+        },
+        {
+          "tag": "Tag 4 — So 03.01. (Rückreise)",
+          "stationen": [
+            {
+              "name": "Franzbrötchen-Frühstück",
+              "dauer": "30 Min",
+              "kosten": "~3 €",
+              "kurzinfo": "Hamburger Zimtgebäck in der Bäckerei"
+            },
+            {
+              "name": "Deichtorhallen",
+              "dauer": "1,5 h",
+              "kosten": "14 €",
+              "kurzinfo": "Zeitgenössische Kunst, 11–18, nah am Hbf"
+            },
+            {
+              "name": "S1 → Flughafen",
+              "dauer": "25 Min",
+              "kosten": "0 € (im Tagesticket)",
+              "kurzinfo": "Rückflug; ⚠️ HVV-Sonderfahrplan 2026/27 noch nicht veröffentlicht"
+            }
+          ]
+        }
+      ]
     }
-   ],
-   "titel": "Mi 30.12.2026 → Fr 01.01.2027 (2 Tage)"
-  },
-  {
-   "id": "B",
-   "tage": [
-    {
-     "stationen": [
-      {
-       "dauer": "1h20 + Transfer",
-       "kosten": "202,04 € (Round-Trip)",
-       "kurzinfo": "LH2062 nonstop, Ankunft 12:50",
-       "name": "Flug MUC → HAM"
-      },
-      {
-       "dauer": "25 Min",
-       "kosten": "8,20 € (Tagesticket)",
-       "kurzinfo": "S1 in die Stadt; ⚠️ HVV-Sonderfahrplan 2026/27 noch nicht veröffentlicht — kurz vor dem Trip prüfen",
-       "name": "S1 Flughafen → Stadt"
-      },
-      {
-       "dauer": "30 Min",
-       "kosten": "siehe Hotel-Check",
-       "kurzinfo": "Check-in",
-       "name": "Hotel Check-in"
-      },
-      {
-       "dauer": "30 Min",
-       "kosten": "0 €",
-       "kurzinfo": "Startpunkt Hafen",
-       "name": "Landungsbrücken"
-      },
-      {
-       "dauer": "40 Min",
-       "kosten": "0 € (im HVV-Ticket)",
-       "kurzinfo": "Kurze Hafenrunde mit der HVV-Fähre",
-       "name": "Fähre Linie 62"
-      },
-      {
-       "dauer": "45 Min",
-       "kosten": "5 €",
-       "kurzinfo": "Panorama vor der Musical-Zeit",
-       "name": "Elbphilharmonie Plaza"
-      },
-      {
-       "dauer": "2h50",
-       "kosten": "ab 66,49 €",
-       "kurzinfo": "17:00-Vorstellung, Shuttle ab Brücke 1 ab 15:30",
-       "name": "König der Löwen"
-      },
-      {
-       "dauer": "1 h",
-       "kosten": "~25 €",
-       "kurzinfo": "Labskaus im Kult-Restaurant seit 1795",
-       "name": "Abendessen: Old Commercial Room"
-      },
-      {
-       "dauer": "bis 5:00",
-       "kosten": "0 € / 61,70 € / ~105 €",
-       "kurzinfo": "Feuerwerk oder Party, danach Kiez",
-       "name": "Silvesternacht"
-      }
-     ],
-     "tag": "Tag 1 — Do 31.12. (Anreise + Silvester)"
-    },
-    {
-     "stationen": [
-      {
-       "dauer": "2,5 h",
-       "kosten": "15 €",
-       "kurzinfo": "Neun Decks Seefahrtsgeschichte, an Neujahr geöffnet",
-       "name": "Internationales Maritimes Museum"
-      },
-      {
-       "dauer": "2,5 h",
-       "kosten": "~22 €",
-       "kurzinfo": "Weltgrößte Modelleisenbahn, Zeitslot vorab buchen",
-       "name": "Miniatur Wunderland"
-      },
-      {
-       "dauer": "1 h",
-       "kosten": "8 €",
-       "kurzinfo": "Turm-Blick; ⚠️ Turm-Zeiten am 31.12./01.01. nicht verifiziert — vor Besuch prüfen (Gottesdienste + Silvesterkonzert 21:00 ab 16 € finden statt)",
-       "name": "Michel (St. Michaelis)"
-      },
-      {
-       "dauer": "1 h",
-       "kosten": "~18 €",
-       "kurzinfo": "Mittag im Portugiesenviertel",
-       "name": "Portugiesenviertel"
-      },
-      {
-       "dauer": "1,5 h",
-       "kosten": "~4–5 €",
-       "kurzinfo": "Alternative Ausgeh-Viertel, Street Art, Cappuccino",
-       "name": "Sternschanze"
-      },
-      {
-       "dauer": "1,5 h",
-       "kosten": "~25 €",
-       "kurzinfo": "Läuft auch am 1.1. (11:00/13:30/15:00) — abends haben die meisten Kiez-Clubs/Bars geschlossen",
-       "name": "Kieztour (Kiez-Kapitän, tagsüber)"
-      }
-     ],
-     "tag": "Tag 2 — Fr 01.01. (Neujahr)"
-    },
-    {
-     "stationen": [
-      {
-       "dauer": "1,5 h",
-       "kosten": "14 €",
-       "kurzinfo": "Zeitgenössische Kunst, nah am Hbf",
-       "name": "Deichtorhallen (Alternative: Chilehaus + Mö-Grill)"
-      },
-      {
-       "dauer": "1 h",
-       "kosten": "~4 €",
-       "kurzinfo": "Letzter Bummel, Jungfernstieg",
-       "name": "Innenstadt"
-      },
-      {
-       "dauer": "25 Min",
-       "kosten": "0 € (im Tagesticket)",
-       "kurzinfo": "Rückflug; ⚠️ HVV-Sonderfahrplan 2026/27 noch nicht veröffentlicht",
-       "name": "S1 → Flughafen"
-      }
-     ],
-     "tag": "Tag 3 — Sa 02.01. (Rückreise)"
-    }
-   ],
-   "titel": "Do 31.12.2026 → Sa 02.01.2027 (2 Tage)"
-  },
-  {
-   "id": "C",
-   "tage": [
-    {
-     "stationen": [
-      {
-       "dauer": "1h20 + Transfer",
-       "kosten": "202,04 € (Round-Trip)",
-       "kurzinfo": "LH2078 nonstop, Ankunft 20:05",
-       "name": "Flug MUC → HAM"
-      },
-      {
-       "dauer": "25 Min",
-       "kosten": "8,20 € (Tagesticket)",
-       "kurzinfo": "S1 in die Stadt; ⚠️ HVV-Sonderfahrplan 2026/27 noch nicht veröffentlicht — kurz vor dem Trip prüfen",
-       "name": "S1 Flughafen → Stadt"
-      },
-      {
-       "dauer": "30 Min",
-       "kosten": "siehe Hotel-Check",
-       "kurzinfo": "Check-in",
-       "name": "Hotel Check-in"
-      },
-      {
-       "dauer": "1 h",
-       "kosten": "0 €",
-       "kurzinfo": "Ankommen auf dem Kiez",
-       "name": "Reeperbahn-Bummel"
-      },
-      {
-       "dauer": "45 Min",
-       "kosten": "~8–20 €",
-       "kurzinfo": "Currywurst oder portugiesisch",
-       "name": "Abendessen"
-      }
-     ],
-     "tag": "Tag 1 — Mi 30.12. (Anreise)"
-    },
-    {
-     "stationen": [
-      {
-       "dauer": "1,5 h",
-       "kosten": "0 €",
-       "kurzinfo": "UNESCO-Viertel + Fotospot",
-       "name": "Speicherstadt & Chilehaus"
-      },
-      {
-       "dauer": "1,5 h",
-       "kosten": "ab 18,50 €",
-       "kurzinfo": "Dunkel-Tour mit blinden Guides",
-       "name": "Dialog im Dunkeln"
-      },
-      {
-       "dauer": "30 Min",
-       "kosten": "4–8 €",
-       "kurzinfo": "Fischbrötchen an den Brücken",
-       "name": "Brücke 10 (Mittag)"
-      },
-      {
-       "dauer": "1,5 h",
-       "kosten": "5 €",
-       "kurzinfo": "Plaza + HVV-Fähre + Elbtunnel (tagsüber)",
-       "name": "Elbphi Plaza / Fähre 62 / Elbtunnel"
-      },
-      {
-       "dauer": "2h50",
-       "kosten": "ab 66,49 €",
-       "kurzinfo": "17:00-Vorstellung",
-       "name": "König der Löwen"
-      },
-      {
-       "dauer": "1 h",
-       "kosten": "~20–25 €",
-       "kurzinfo": "Labskaus",
-       "name": "Abendessen: Krameramtsstuben"
-      },
-      {
-       "dauer": "bis 5:00",
-       "kosten": "0 € / 61,70 € / ~105 €",
-       "kurzinfo": "Feuerwerk oder Party",
-       "name": "Silvesternacht"
-      }
-     ],
-     "tag": "Tag 2 — Do 31.12. (Silvester)"
-    },
-    {
-     "stationen": [
-      {
-       "dauer": "2,5 h",
-       "kosten": "15 €",
-       "kurzinfo": "An Neujahr 10–18 geöffnet",
-       "name": "Internationales Maritimes Museum"
-      },
-      {
-       "dauer": "2,5 h",
-       "kosten": "~22 €",
-       "kurzinfo": "Zeitslot vorab buchen",
-       "name": "Miniatur Wunderland"
-      },
-      {
-       "dauer": "1 h",
-       "kosten": "8 €",
-       "kurzinfo": "Turm-Blick; ⚠️ Turm-Zeiten am 31.12./01.01. nicht verifiziert — vor Besuch prüfen (Gottesdienste + Silvesterkonzert 21:00 ab 16 € finden statt)",
-       "name": "Michel"
-      },
-      {
-       "dauer": "1 h",
-       "kosten": "~18 €",
-       "kurzinfo": "Mittag",
-       "name": "Portugiesenviertel"
-      },
-      {
-       "dauer": "1,5 h",
-       "kosten": "~4–5 €",
-       "kurzinfo": "Street Art, Cafés",
-       "name": "Sternschanze"
-      },
-      {
-       "dauer": "1,5 h",
-       "kosten": "~25 €",
-       "kurzinfo": "Läuft auch am 1.1. (11:00/13:30/15:00) — abends haben die meisten Kiez-Clubs/Bars geschlossen",
-       "name": "Kieztour (Kiez-Kapitän, tagsüber)"
-      }
-     ],
-     "tag": "Tag 3 — Fr 01.01. (Neujahr)"
-    },
-    {
-     "stationen": [
-      {
-       "dauer": "3 h",
-       "kosten": "0 €",
-       "kurzinfo": "Treppenviertel, Elbstrand, Schiffswracks bei Ebbe (S-Bahn ~30 Min)",
-       "name": "Blankenese"
-      },
-      {
-       "dauer": "45 Min",
-       "kosten": "4–8 €",
-       "kurzinfo": "Fischbrötchen seit 1980 am Fähranleger",
-       "name": "Nuggi's Elbkate (Mittag)"
-      },
-      {
-       "dauer": "25 Min",
-       "kosten": "0 € (im Tagesticket)",
-       "kurzinfo": "Rückflug; ⚠️ HVV-Sonderfahrplan 2026/27 noch nicht veröffentlicht",
-       "name": "S1 → Flughafen"
-      }
-     ],
-     "tag": "Tag 4 — Sa 02.01. (Rückreise)"
-    }
-   ],
-   "titel": "Mi 30.12.2026 → Sa 02.01.2027 (3 Tage)"
-  },
-  {
-   "id": "D",
-   "titel": "Do 31.12.2026 → So 03.01.2027 (3 Tage)",
-   "tage": [
-    {
-     "tag": "Tag 1 — Do 31.12. (Anreise + Silvester)",
-     "stationen": [
-      {
-       "name": "Flug MUC → HAM",
-       "dauer": "1h20",
-       "kosten": "138 € (Round-Trip, Momondo 10.10.)",
-       "kurzinfo": "Eurowings nonstop 9:15 → 10:35; LH-Alternative ab 160 €"
-      },
-      {
-       "name": "S1 Flughafen → Stadt",
-       "dauer": "25 Min",
-       "kosten": "8,20 € (Tagesticket)",
-       "kurzinfo": "S1 in die Stadt; ⚠️ HVV-Sonderfahrplan 2026/27 noch nicht veröffentlicht — kurz vor dem Trip prüfen"
-      },
-      {
-       "name": "Hotel Check-in",
-       "dauer": "30 Min",
-       "kosten": "siehe Hotel-Check",
-       "kurzinfo": "Check-in"
-      },
-      {
-       "name": "Landungsbrücken",
-       "dauer": "30 Min",
-       "kosten": "0 €",
-       "kurzinfo": "Startpunkt Hafen"
-      },
-      {
-       "name": "Fähre Linie 62",
-       "dauer": "40 Min",
-       "kosten": "0 € (im HVV-Ticket)",
-       "kurzinfo": "Kurze Hafenrunde mit der HVV-Fähre"
-      },
-      {
-       "name": "Elbphilharmonie Plaza",
-       "dauer": "45 Min",
-       "kosten": "5 €",
-       "kurzinfo": "Panorama vor der Musical-Zeit"
-      },
-      {
-       "name": "König der Löwen",
-       "dauer": "2h50",
-       "kosten": "ab 66,49 €",
-       "kurzinfo": "17:00-Vorstellung, Shuttle ab Brücke 1 ab 15:30"
-      },
-      {
-       "name": "Abendessen: Old Commercial Room",
-       "dauer": "1 h",
-       "kosten": "~25 €",
-       "kurzinfo": "Labskaus im Kult-Restaurant seit 1795"
-      },
-      {
-       "name": "Silvesternacht",
-       "dauer": "bis 5:00",
-       "kosten": "0 € / 61,70 € / ~105 €",
-       "kurzinfo": "Feuerwerk oder Party, danach Kiez"
-      }
-     ]
-    },
-    {
-     "tag": "Tag 2 — Fr 01.01. (Neujahr)",
-     "stationen": [
-      {
-       "name": "Internationales Maritimes Museum",
-       "dauer": "2,5 h",
-       "kosten": "15 €",
-       "kurzinfo": "Neun Decks Seefahrtsgeschichte, an Neujahr geöffnet"
-      },
-      {
-       "name": "Miniatur Wunderland",
-       "dauer": "2,5 h",
-       "kosten": "~22 €",
-       "kurzinfo": "Weltgrößte Modelleisenbahn, Zeitslot vorab buchen"
-      },
-      {
-       "name": "Michel (St. Michaelis)",
-       "dauer": "1 h",
-       "kosten": "8 €",
-       "kurzinfo": "Turm-Blick; ⚠️ Turm-Zeiten am 31.12./01.01. nicht verifiziert — vor Besuch prüfen (Gottesdienste + Silvesterkonzert 21:00 ab 16 € finden statt)"
-      },
-      {
-       "name": "Portugiesenviertel",
-       "dauer": "1 h",
-       "kosten": "~18 €",
-       "kurzinfo": "Mittag im Portugiesenviertel"
-      },
-      {
-       "name": "Sternschanze",
-       "dauer": "1,5 h",
-       "kosten": "~4–5 €",
-       "kurzinfo": "Alternative Ausgeh-Viertel, Street Art, Cappuccino"
-      },
-      {
-       "name": "Kieztour (Kiez-Kapitän, tagsüber)",
-       "dauer": "1,5 h",
-       "kosten": "~25 €",
-       "kurzinfo": "Läuft auch am 1.1. (11:00/13:30/15:00) — abends haben die meisten Kiez-Clubs/Bars geschlossen"
-      }
-     ]
-    },
-    {
-     "tag": "Tag 3 — Sa 02.01.",
-     "stationen": [
-      {
-       "name": "Blankenese",
-       "dauer": "3 h",
-       "kosten": "0 €",
-       "kurzinfo": "Treppenviertel, Elbstrand, Schiffswracks bei Ebbe (S-Bahn ~30 Min)"
-      },
-      {
-       "name": "Nuggi's Elbkate (Mittag)",
-       "dauer": "45 Min",
-       "kosten": "4–8 €",
-       "kurzinfo": "Fischbrötchen seit 1980 am Fähranleger Övelgönne"
-      },
-      {
-       "name": "Gängeviertel",
-       "dauer": "1,5 h",
-       "kosten": "0 €",
-       "kurzinfo": "Künstlerquartier mit Galerien, Murals, Cafés"
-      },
-      {
-       "name": "Abendessen: Krameramtsstuben",
-       "dauer": "1 h",
-       "kosten": "~20–25 €",
-       "kurzinfo": "Labskaus beim Michel"
-      }
-     ]
-    },
-    {
-     "tag": "Tag 4 — So 03.01. (Rückreise)",
-     "stationen": [
-      {
-       "name": "Franzbrötchen-Frühstück",
-       "dauer": "30 Min",
-       "kosten": "~3 €",
-       "kurzinfo": "Hamburger Zimtgebäck in der Bäckerei"
-      },
-      {
-       "name": "Deichtorhallen",
-       "dauer": "1,5 h",
-       "kosten": "14 €",
-       "kurzinfo": "Zeitgenössische Kunst, 11–18, nah am Hbf"
-      },
-      {
-       "name": "S1 → Flughafen",
-       "dauer": "25 Min",
-       "kosten": "0 € (im Tagesticket)",
-       "kurzinfo": "Rückflug; ⚠️ HVV-Sonderfahrplan 2026/27 noch nicht veröffentlicht"
-      }
-     ]
-    }
-   ]
-  }
- ]
+  ]
 }
