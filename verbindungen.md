@@ -88,6 +88,58 @@ Quelle: Trainline (thetrainline.com/de), 1 Erw., 2. Klasse, ohne BahnCard, alle 
 - Flugpreise: Duffel-Live-Search, 10.10.2026 (Rohdaten: /tmp/ham-a.json, /tmp/ham-b.json, /tmp/ham-c.json)
 - ICE-Preise 31.12.2026/03.01.2027: bahn.de live geprüft am 15.10.2026 vormittags (1 Pers., 2. Klasse, ohne BahnCard) — zuvor: Omio-Snapshots (Suchergebnisse 10.10.2026, Stand ~04.10.2026), allgemeine Startpreise, nicht datumsspezifisch
 - ICE-Detailpreise alle Varianten (morgens hin): Trainline live geprüft am 15.10.2026 nachmittags (1 Pers., 2. Klasse, Super Sparpreis); bahn.de + ÖBB-Ticketshop bei diesem Lauf blockiert (Bot-Sperre / Cloudflare-Schleife), ÖBB-Preise nicht ermittelt
+
+### Abend-Rückfahrten (Trainline, 15.10.2026 nachmittags, HAM→MUC, 1 Erw., 2. Klasse)
+Ankünfte nach Mitternacht mit (+1) = Folgetag. Alle günstigsten Abendpreise Super Sparpreis; Semi-Flex/Flex gegen Aufpreis nicht berücksichtigt. Keine separate Trainline-Gebühr in der Ergebnisansicht erkennbar.
+
+**Fr 01.01.2027 — 11 Verbindungen ab 17:00:**
+| Abfahrt → Ankunft | Dauer | Verbindung | Umstiege | Preis |
+|---|---|---|---|---|
+| 17:01 → 22:41 | 5:40 h | ICE 683 | direkt | 29,99 € |
+| 17:34 → 23:31 | 5:57 h | RJ 179 + ICE 1605 | Berlin Hbf (tief), 15 Min. | 23,99 € |
+| 18:01 → 23:42 | 5:41 h | ICE 885 | direkt | 29,99 € |
+| 18:35 → 00:37 (+1) | 6:02 h | ICE 607 + ICE 1107 | Berlin Hbf (tief), 15 Min. | 23,99 € |
+| 19:01 → 00:42 (+1) | 5:41 h | ICE 685 | direkt | 23,99 € (günstigste + direkt) |
+| 19:29 → 06:03 (+1) | 10:34 h | ICE 1277 + ICE 619 | Frankfurt (Main) Hbf, 1:03 h | 39,99 € |
+| 19:45 → 06:03 (+1) | 10:18 h | ICE 619 | direkt | 65,99 € |
+| 20:28 → 07:15 (+1) | 10:47 h | NJ 40491 (ÖBB) | direkt | KEIN Preis (über Trainline nicht verkäuflich) |
+| 22:29 → 06:05 (+1) | 7:36 h | ICE 1081 | direkt | 83,99 € |
+| 22:46 → 09:01 (+1) | 10:15 h | ICE 921 + ICE 827 + RE 4005 + RE 59073 | Köln (19 Min.), Nürnberg (7 Min.), Ingolstadt (22 Min.) | 69,99 € |
+| 22:46 → 09:20 (+1) | 10:34 h | ICE 921 + ICE 827 + ICE 501 | Köln (19 Min.), Nürnberg (1:14 h) | 56,99 € (späteste Ankunft) |
+
+**Sa 02.01.2027 — 10 Verbindungen ab 17:00:**
+| Abfahrt → Ankunft | Dauer | Verbindung | Umstiege | Preis |
+|---|---|---|---|---|
+| 17:01 → 22:41 | 5:40 h | ICE 683 | direkt | 39,99 € |
+| 17:34 → 23:31 | 5:57 h | RJ 179 + ICE 1605 | Berlin Hbf (tief), 15 Min. | 56,99 € |
+| 18:01 → 23:42 | 5:41 h | ICE 885 | direkt | 39,99 € |
+| 18:35 → 00:37 (+1) | 6:02 h | ICE 607 + ICE 1107 | Berlin Hbf (tief), 15 Min. | 39,99 € |
+| 19:29 → 06:03 (+1) | 10:34 h | ICE 1277 + ICE 619 | Frankfurt (Main) Hbf, 1:03 h | 29,99 € (günstigste) |
+| 19:45 → 06:03 (+1) | 10:18 h | ICE 619 | direkt | 59,99 € |
+| 20:28 → 07:15 (+1) | 10:47 h | NJ 40491 (ÖBB) | direkt | KEIN Preis |
+| 22:29 → 06:05 (+1) | 7:36 h | ICE 1081 | direkt | 65,99 € |
+| 22:46 → 09:01 (+1) | 10:15 h | ICE 921 + ICE 827 + RE 4005 + RE 59073 | Köln, Nürnberg, Ingolstadt | 61,99 € |
+| 22:46 → 09:20 (+1) | 10:34 h | ICE 921 + ICE 827 + ICE 501 | Köln, Nürnberg | 49,99 € (späteste Ankunft) |
+Hinweis: Am 02.01. gibt es KEINE 19:01-Direktverbindung (anders als am 01.01. und 03.01.).
+
+**So 03.01.2027 — 12 Verbindungen ab 17:00:**
+| Abfahrt → Ankunft | Dauer | Verbindung | Umstiege | Preis |
+|---|---|---|---|---|
+| 17:01 → 22:41 | 5:40 h | ICE 683 | direkt | 39,99 € |
+| 17:34 → 23:31 | 5:57 h | RJ 179 + ICE 1605 | Berlin Hbf (tief), 15 Min. | 39,99 € |
+| 18:01 → 23:42 | 5:41 h | ICE 885 | direkt | 39,99 € |
+| 18:35 → 00:37 (+1) | 6:02 h | ICE 607 + ICE 1107 | Berlin Hbf (tief), 15 Min. | 29,99 € |
+| 19:01 → 00:42 (+1) | 5:41 h | ICE 685 | direkt | 23,99 € (günstigste) |
+| 19:45 → 06:03 (+1) | 10:18 h | ICE 619 | direkt | 49,99 € |
+| 20:20 → 06:03 (+1) | 9:43 h | ICE 79 + ICE 619 | Frankfurt (Main) Hbf, 37 Min. | 49,99 € |
+| 20:28 → 07:15 (+1) | 10:47 h | NJ 40491 (ÖBB) | direkt | KEIN Preis |
+| 22:29 → 06:05 (+1) | 7:36 h | ICE 1081 | direkt | 65,99 € |
+| 22:46 → 09:15 (+1) | 10:29 h | ICE 921 + ICE 827 + ICE 1571 + ICE 991 | Köln, Frankfurt, Stuttgart | 39,99 € |
+| 22:46 → 09:20 (+1) | 10:34 h | ICE 921 + ICE 827 + ICE 501 | Köln, Nürnberg | 39,99 € |
+| 22:46 → 09:38 (+1) | 10:52 h | ICE 921 + RE 4445 + ICE 1541 + RE 16305 + ICE 1501 | Bremen, Hannover, Magdeburg, Halle | 69,99 € (späteste Ankunft) |
+Hinweis: ICE 827 kommt am 03.01. erst 07:48 in Nürnberg an (nicht 06:58 wie am 01./02.01.).
+
+**Hin+Rück-Gesamtpreise Bahn (günstigster Morgen-Hinzug + günstigste Abend-Rückfahrt):** A 63,98 € (39,99 + 23,99) · B 69,98 € (39,99 + 29,99) · C 69,98 € (39,99 + 29,99) · D 63,98 € (39,99 + 23,99). Hinzug-Preise = Referenzwerte aus dem Morgen-Check (nicht erneut geprüft).
 - Nightjet-Fahrplan: nachtzug.net (Stand April 2025) — Fahrplan für 30./31.12.2026 nicht live verifiziert
 - Buchungsseiten: bahn.de, lufthansa.com, nightjet.com am 10.10.2026 live geöffnet und verifiziert
 
