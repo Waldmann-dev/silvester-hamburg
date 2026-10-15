@@ -32,8 +32,8 @@
             {
               "dauer": "45 Min",
               "kosten": "~8–20 €",
-              "kurzinfo": "Currywurst oder portugiesisch essen",
-              "name": "Abendessen: Kiez Curry / Portugiesenviertel"
+              "kurzinfo": "Portugiesisch essen — Mi 30.12. regulär geöffnet (Casa Madeira 11:30–24:00, Galego ab 17:00, Lusitano 12–22)",
+              "name": "Abendessen: Portugiesenviertel"
             },
             {
               "dauer": "2 h",
@@ -67,7 +67,7 @@
             {
               "dauer": "30 Min",
               "kosten": "4–8 €",
-              "kurzinfo": "Fischbrötchen direkt an den Brücken",
+              "kurzinfo": "Fischbrötchen direkt an den Brücken. 31.12.: Feiertags-Zeiten nicht veröffentlicht (regulär Winter: Mo–Sa 10–20) — vor Besuch prüfen.",
               "name": "Brücke 10 (Mittag)"
             },
             {
@@ -97,7 +97,7 @@
             {
               "dauer": "1 h",
               "kosten": "~20–25 €",
-              "kurzinfo": "Labskaus beim Michel",
+              "kurzinfo": "Labskaus beim Michel. 31.12.: Feiertags-Zeiten nicht veröffentlicht — aus regulären Zeiten abgeleitet geöffnet (Di–So 12–23, Küche bis 21) — vor Besuch bestätigen.",
               "name": "Abendessen: Krameramtsstuben"
             },
             {
@@ -114,7 +114,7 @@
             {
               "dauer": "30 Min",
               "kosten": "~3 €",
-              "kurzinfo": "Hamburger Zimtgebäck in der Bäckerei",
+              "kurzinfo": "Hamburger Zimtgebäck — am 01.01. (Neujahr): Bäckerei „Franz&Friends und Nur Hier\" am Hbf (Südsteg) offen 24/7 inkl. Feiertage (bahnhof.de). Außerhalb von Bahnhöfen überwiegend geschlossen.",
               "name": "Franzbrötchen-Frühstück"
             },
             {
@@ -191,7 +191,7 @@
             {
               "dauer": "1 h",
               "kosten": "~25 €",
-              "kurzinfo": "Labskaus im Kult-Restaurant seit 1795",
+              "kurzinfo": "Labskaus im Kult-Restaurant seit 1795. 31.12.: Feiertags-Zeiten nicht veröffentlicht — aus regulären Zeiten abgeleitet geöffnet (täglich 12–23) — vor Besuch bestätigen.",
               "name": "Abendessen: Old Commercial Room"
             },
             {
@@ -226,7 +226,7 @@
             {
               "dauer": "1 h",
               "kosten": "~18 €",
-              "kurzinfo": "Mittag im Portugiesenviertel",
+              "kurzinfo": "Mittag im Portugiesenviertel. 01.01.: Feiertags-Zeiten nicht veröffentlicht — aus regulären Zeiten abgeleitet geöffnet (Casa Madeira 11:30–24:00, Galego 17–23, Lusitano 12–22) — vor Besuch bestätigen.",
               "name": "Portugiesenviertel"
             },
             {
@@ -249,7 +249,7 @@
             {
               "dauer": "1,5 h",
               "kosten": "14 €",
-              "kurzinfo": "Zeitgenössische Kunst, nah am Hbf",
+              "kurzinfo": "Zeitgenössische Kunst, nah am Hbf. Alternative: Chilehaus + Mö-Grill (02.01. Sa: regulär geöffnet 10–19 Uhr, keine Abweichung bekannt).",
               "name": "Deichtorhallen (Alternative: Chilehaus + Mö-Grill)"
             },
             {
@@ -302,7 +302,7 @@
             {
               "dauer": "45 Min",
               "kosten": "~8–20 €",
-              "kurzinfo": "Currywurst oder portugiesisch",
+              "kurzinfo": "Portugiesisch essen — Mi 30.12. regulär geöffnet (Casa Madeira 11:30–24:00, Galego ab 17:00, Lusitano 12–22).",
               "name": "Abendessen"
             }
           ],
@@ -325,7 +325,7 @@
             {
               "dauer": "30 Min",
               "kosten": "4–8 €",
-              "kurzinfo": "Fischbrötchen an den Brücken",
+              "kurzinfo": "Fischbrötchen an den Brücken. 31.12.: Feiertags-Zeiten nicht veröffentlicht (regulär Winter: Mo–Sa 10–20) — vor Besuch prüfen.",
               "name": "Brücke 10 (Mittag)"
             },
             {
@@ -343,7 +343,7 @@
             {
               "dauer": "1 h",
               "kosten": "~20–25 €",
-              "kurzinfo": "Labskaus",
+              "kurzinfo": "Labskaus. 31.12.: Feiertags-Zeiten nicht veröffentlicht — aus regulären Zeiten abgeleitet geöffnet (Di–So 12–23, Küche bis 21) — vor Besuch bestätigen.",
               "name": "Abendessen: Krameramtsstuben"
             },
             {
@@ -378,7 +378,7 @@
             {
               "dauer": "1 h",
               "kosten": "~18 €",
-              "kurzinfo": "Mittag",
+              "kurzinfo": "Mittag. 01.01.: Feiertags-Zeiten nicht veröffentlicht — aus regulären Zeiten abgeleitet geöffnet (Casa Madeira 11:30–24:00, Galego 17–23, Lusitano 12–22) — vor Besuch bestätigen.",
               "name": "Portugiesenviertel"
             },
             {
@@ -407,7 +407,7 @@
             {
               "dauer": "45 Min",
               "kosten": "4–8 €",
-              "kurzinfo": "Fischbrötchen seit 1980 am Fähranleger",
+              "kurzinfo": "Fischbrötchen seit 1980 am Fähranleger. 02.01. (Sa): regulär geöffnet 12–20 Uhr (keine Abweichung bekannt).",
               "name": "Nuggi's Elbkate (Mittag)"
             },
             {
@@ -475,7 +475,7 @@
               "name": "Abendessen: Old Commercial Room",
               "dauer": "1 h",
               "kosten": "~25 €",
-              "kurzinfo": "Labskaus im Kult-Restaurant seit 1795"
+              "kurzinfo": "Labskaus im Kult-Restaurant seit 1795. 31.12.: Feiertags-Zeiten nicht veröffentlicht — aus regulären Zeiten abgeleitet geöffnet (täglich 12–23) — vor Besuch bestätigen."
             },
             {
               "name": "Silvesternacht",
@@ -510,7 +510,7 @@
               "name": "Portugiesenviertel",
               "dauer": "1 h",
               "kosten": "~18 €",
-              "kurzinfo": "Mittag im Portugiesenviertel"
+              "kurzinfo": "Mittag im Portugiesenviertel. 01.01.: Feiertags-Zeiten nicht veröffentlicht — aus regulären Zeiten abgeleitet geöffnet (Casa Madeira 11:30–24:00, Galego 17–23, Lusitano 12–22) — vor Besuch bestätigen."
             },
             {
               "name": "Sternschanze",
@@ -539,7 +539,7 @@
               "name": "Nuggi's Elbkate (Mittag)",
               "dauer": "45 Min",
               "kosten": "4–8 €",
-              "kurzinfo": "Fischbrötchen seit 1980 am Fähranleger Övelgönne"
+              "kurzinfo": "Fischbrötchen seit 1980 am Fähranleger Övelgönne. 02.01. (Sa): regulär geöffnet 12–20 Uhr (keine Abweichung bekannt)."
             },
             {
               "name": "Gängeviertel",
@@ -551,7 +551,7 @@
               "name": "Abendessen: Krameramtsstuben",
               "dauer": "1 h",
               "kosten": "~20–25 €",
-              "kurzinfo": "Labskaus beim Michel"
+              "kurzinfo": "Labskaus beim Michel. 02.01. (Sa): regulär geöffnet (Di–So 12–23, Küche bis 21) — keine Abweichung bekannt."
             }
           ]
         },
@@ -562,7 +562,7 @@
               "name": "Franzbrötchen-Frühstück",
               "dauer": "30 Min",
               "kosten": "~3 €",
-              "kurzinfo": "Hamburger Zimtgebäck in der Bäckerei"
+              "kurzinfo": "Hamburger Zimtgebäck — am So 03.01.: Bäckerei „Franz&Friends und Nur Hier\" am Hbf (Südsteg) offen 24/7 inkl. Feiertage (bahnhof.de). Sonst sonntags meist geschlossen."
             },
             {
               "name": "Deichtorhallen",
