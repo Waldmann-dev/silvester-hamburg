@@ -132,6 +132,94 @@ ANREISE_DETAIL = """
     <p class="est">Bahn ist damit in allen Varianten deutlich günstiger als der Flug. Probe BahnCard 25: 17,90 € / 3 Monate → 25 % Rabatt auf DB-Tarife. ÖBB Nightjet NJ40420 (22:52 → 08:47, Sitz ab 34,90 €, Liege ab 54,90 €) spart eine Hotel-Nacht — Verkauf läuft bereits.</p>
   </div>
 
+  <h3>🌙 Abend-Rückfahrten (Abfahrt ab 17:00)</h3>
+  <p class="sec-sub">Wer abends länger in Hamburg bleiben will: Alle Abend-Rückflüge und die wichtigsten Abend-Züge. Stand: 15.10.2026 nachmittags.</p>
+
+  <div class="card">
+    <h3>Abend-Rückflüge · Fr 01.01.2027 (Variante A)</h3>
+    <table>
+      <tr><th>Rückflug (HAM → MUC)</th><th>Round-Trip mit LH2062 (11:30 hin)</th><th>Round-Trip mit LH2054 (07:45 hin)</th></tr>
+      <tr><td><strong>LH2077, 19:35 → 20:50</strong> — günstigster + spätester Abend-Rückflug</td><td><strong>214 €</strong></td><td>221 €</td></tr>
+      <tr><td>EW7174, 19:10 → 20:25</td><td>233 €</td><td>242 €</td></tr>
+    </table>
+    <p class="est">Tagesangebot 01.01.: 10:55, 13:35, 16:35, 19:10, 19:35. Alle Preise Round-Trip gesamt, Economy Basic ohne Aufgabegepäck.</p>
+  </div>
+
+  <div class="card">
+    <h3>Abend-Rückflüge · Sa 02.01.2027 (Varianten B/C)</h3>
+    <table>
+      <tr><th>Rückflug (HAM → MUC)</th><th>Variante C (hin 30.12.)</th><th>Variante B (hin 31.12.)</th></tr>
+      <tr><td><strong>LH2071, 17:05 → 18:20</strong> — günstigster Abend-Rückflug</td><td><strong>211 €</strong> (mit LH2062) / 219 € (mit LH2054)</td><td><strong>215 €</strong> (mit LH2054/LH2062) / 224 € (mit EW7171)</td></tr>
+      <tr><td><strong>LH2079, 20:50 → 22:05</strong> — spätester Rückflug</td><td>219 € (mit LH2062) / 226 € (mit LH2054)</td><td>220 € (mit LH2054/LH2062) / 237 € (mit EW7171)</td></tr>
+    </table>
+    <p class="est">Tagesangebot 02.01.: 06:15, 09:05, 10:55, 13:35, 15:05, 17:05, 20:50; kein Eurowings-Abendflug.</p>
+  </div>
+
+  <div class="card">
+    <h3>Abend-Rückflüge · So 03.01.2027 (Variante D)</h3>
+    <table>
+      <tr><th>Rückflug (HAM → MUC)</th><th>Mit LH2054 (07:45 hin)</th><th>Mit LH2062 (11:30 hin)</th><th>Mit EW7171 (09:15 hin)</th></tr>
+      <tr><td><strong>LH2073, 18:05 → 19:20</strong> — günstigster Abend-Rückflug (gleichauf)</td><td><strong>161 €</strong></td><td>171 €</td><td>nicht angezeigt</td></tr>
+      <tr><td><strong>LH2079, 20:50 → 22:05</strong> — günstigster + spätester</td><td><strong>161 €</strong></td><td>171 €</td><td>237 €</td></tr>
+      <tr><td>EW7174, 19:10 → 20:25</td><td>232 €</td><td>nicht angezeigt</td><td>166 €</td></tr>
+      <tr><td>LH2077, 19:35 → 20:50</td><td>186 €</td><td>194 €</td><td>227 €</td></tr>
+    </table>
+    <p class="est">Tagesangebot 03.01.: 08:55, 10:55, 13:35, 15:05, 18:05, 19:10, 19:35, 20:50. Zwei Kombis (EW7171 + LH2073, LH2062 + EW7174) zeigte Momondo nicht an — ändert nichts an günstigstem/spätestem Flug.</p>
+  </div>
+
+  <div class="card">
+    <h3>Abend-Züge · Fr 01.01.2027 (Hamburg Hbf → München Hbf)</h3>
+    <table>
+      <tr><th>Verbindung</th><th>Abfahrt → Ankunft</th><th>Dauer</th><th>Umstiege</th><th>Preis</th></tr>
+      <tr><td>ICE 683</td><td>17:01 → 22:41</td><td>5:40 h</td><td>direkt</td><td>29,99 €</td></tr>
+      <tr><td>RJ 179 + ICE 1605</td><td>17:34 → 23:31</td><td>5:57 h</td><td>Berlin Hbf (tief), 15 Min.</td><td>23,99 €</td></tr>
+      <tr><td>ICE 885</td><td>18:01 → 23:42</td><td>5:41 h</td><td>direkt</td><td>29,99 €</td></tr>
+      <tr><td>ICE 607 + ICE 1107</td><td>18:35 → 00:37 (+1)</td><td>6:02 h</td><td>Berlin Hbf (tief), 15 Min.</td><td>23,99 €</td></tr>
+      <tr><td><strong>ICE 685</strong> — günstigste + direkt</td><td><strong>19:01 → 00:42 (+1)</strong></td><td>5:41 h</td><td>direkt</td><td><strong>23,99 €</strong></td></tr>
+      <tr><td>Späteste Abfahrt: ICE 921 (+ Anschluss)</td><td>22:46 → 09:01 / 09:20 (+1)</td><td>10:15 / 10:34 h</td><td>3 / 2 Umstiege</td><td>69,99 € / 56,99 €</td></tr>
+    </table>
+    <p class="est">11 Verbindungen ab 17:00, inkl. Nachtzüge (z. B. ICE 619, 19:45 → 06:03, direkt, 65,99 €). Nightjet NJ 40491 (20:28 → 07:15) über Trainline nicht verkäuflich (kein Preis).</p>
+  </div>
+
+  <div class="card">
+    <h3>Abend-Züge · Sa 02.01.2027 (Hamburg Hbf → München Hbf)</h3>
+    <table>
+      <tr><th>Verbindung</th><th>Abfahrt → Ankunft</th><th>Dauer</th><th>Umstiege</th><th>Preis</th></tr>
+      <tr><td>ICE 683</td><td>17:01 → 22:41</td><td>5:40 h</td><td>direkt</td><td>39,99 €</td></tr>
+      <tr><td>ICE 885</td><td>18:01 → 23:42</td><td>5:41 h</td><td>direkt</td><td>39,99 €</td></tr>
+      <tr><td>ICE 607 + ICE 1107</td><td>18:35 → 00:37 (+1)</td><td>6:02 h</td><td>Berlin Hbf (tief), 15 Min.</td><td>39,99 €</td></tr>
+      <tr><td><strong>ICE 1277 + ICE 619</strong> — günstigste</td><td><strong>19:29 → 06:03 (+1)</strong></td><td>10:34 h</td><td>Frankfurt (Main) Hbf, 1:03 h</td><td><strong>29,99 €</strong></td></tr>
+      <tr><td>Späteste Abfahrt: ICE 921 (+ Anschluss)</td><td>22:46 → 09:20 (+1)</td><td>10:34 h</td><td>2 Umstiege</td><td>49,99 €</td></tr>
+    </table>
+    <p class="est">10 Verbindungen ab 17:00. Am 02.01. gibt es KEINE 19:01-Direktverbindung (anders als am 01.01. und 03.01.). Nightjet NJ 40491 (20:28 → 07:15) über Trainline nicht verkäuflich.</p>
+  </div>
+
+  <div class="card">
+    <h3>Abend-Züge · So 03.01.2027 (Hamburg Hbf → München Hbf)</h3>
+    <table>
+      <tr><th>Verbindung</th><th>Abfahrt → Ankunft</th><th>Dauer</th><th>Umstiege</th><th>Preis</th></tr>
+      <tr><td>ICE 683</td><td>17:01 → 22:41</td><td>5:40 h</td><td>direkt</td><td>39,99 €</td></tr>
+      <tr><td>RJ 179 + ICE 1605</td><td>17:34 → 23:31</td><td>5:57 h</td><td>Berlin Hbf (tief), 15 Min.</td><td>39,99 €</td></tr>
+      <tr><td>ICE 885</td><td>18:01 → 23:42</td><td>5:41 h</td><td>direkt</td><td>39,99 €</td></tr>
+      <tr><td>ICE 607 + ICE 1107</td><td>18:35 → 00:37 (+1)</td><td>6:02 h</td><td>Berlin Hbf (tief), 15 Min.</td><td>29,99 €</td></tr>
+      <tr><td><strong>ICE 685</strong> — günstigste + direkt</td><td><strong>19:01 → 00:42 (+1)</strong></td><td>5:41 h</td><td>direkt</td><td><strong>23,99 €</strong></td></tr>
+      <tr><td>Späteste Abfahrt: ICE 921 (+ Anschluss)</td><td>22:46 → 09:15 / 09:20 / 09:38 (+1)</td><td>10:29–10:52 h</td><td>3 / 2 / 4 Umstiege</td><td>ab 39,99 €</td></tr>
+    </table>
+    <p class="est">12 Verbindungen ab 17:00, inkl. Nachtzüge. Nightjet NJ 40491 (20:28 → 07:15) über Trainline nicht verkäuflich (kein Preis).</p>
+  </div>
+
+  <div class="card">
+    <h3>Bahn: Hin+Rück-Gesamtpreise mit Abend-Rückfahrt (günstigster Morgen-Hinzug + günstigste Abend-Rückfahrt)</h3>
+    <table>
+      <tr><th>Variante</th><th>Hin (morgens)</th><th>Zurück (abends, günstigste)</th><th>Gesamt</th></tr>
+      <tr><td><strong>A</strong> (30.12. / 01.01.)</td><td>39,99 €</td><td>23,99 € (ICE 685, 19:01, direkt)</td><td><strong>63,98 €</strong></td></tr>
+      <tr><td><strong>B</strong> (31.12. / 02.01.)</td><td>39,99 €</td><td>29,99 € (19:29, 1 Umstieg Frankfurt)</td><td><strong>69,98 €</strong></td></tr>
+      <tr><td><strong>C</strong> (30.12. / 02.01.)</td><td>39,99 €</td><td>29,99 € (19:29, 1 Umstieg Frankfurt)</td><td><strong>69,98 €</strong></td></tr>
+      <tr><td><strong>D</strong> (31.12. / 03.01.)</td><td>39,99 €</td><td>23,99 € (ICE 685, 19:01, direkt)</td><td><strong>63,98 €</strong></td></tr>
+    </table>
+    <p class="est">Alle Abend-Preise Super Sparpreis (Trainline, 15.10.2026 nachmittags). Eine eventuelle Trainline-Buchungsgebühr ist in den Preisen nicht bestätigt enthalten.</p>
+  </div>
+
   <div class="note"><strong>Hinweise zur Bahn-Recherche:</strong> Trainline zeigt nur die schnellsten Verbindungen mit den wenigsten Umstiegen — langsamere/günstigere mit mehr Umstiegen ggf. nicht enthalten. Eine eventuelle Trainline-Buchungsgebühr ist in den Preisen nicht bestätigt enthalten (bis zur Fahrgastdaten-Seite keine separate Gebührenzeile; der letzte Zahlungsschritt war ohne Eingabe persönlicher Daten nicht prüfbar). bahn.de hat die Abfrage am 15.10. mit Bot-Sperre blockiert (Fehler 751, kein lösbares CAPTCHA); der ÖBB-Ticketshop hing in einer Cloudflare-Schleife — Preise dort ggf. auf eigenem Gerät prüfen. Preise dynamisch (z. B. 03.01.-Rückfahrt, 07:01-Verbindung, während der Prüfung 39,99 € → 29,99 €).</div>
 </section>
 """
