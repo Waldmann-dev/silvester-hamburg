@@ -71,3 +71,36 @@ LH Comfort (inkl. 23 kg Aufgabegepäck) für (a) ca. 274 € (273,66 €); (d) m
 
 #### Hinweise
 Preise sind dynamisch: Während der Recherche sank der Momondo-Bestpreis für (d) von 165 € auf 161 € und für (c) von 204 € auf 200 €. FlixBus-Ergebnisse auf Momondo (Bus, keine Flüge) wurden ignoriert. Eurowings-Angebot 138 € vom 10.10. für (d) ist nicht mehr verfügbar.
+
+### Abend-Rückflüge (Detail-Check 15.10.2026 nachmittags, Momondo + lufthansa.com)
+Abends = Abflug ab 17:00 Uhr. Alle Beträge sind Round-Trip-Gesamtpreise pro Person für die Kombi „günstigster gelisteter Morgen-Hinflug + dieser Abend-Rückflug" (Momondo zeigt nur Round-Trip-Gesamtpreise, keine Teilstreckenpreise). Alle Economy Basic OHNE Aufgabegepäck (Momondo: „Preise beinhalten keine Gepäckgebühren"). Zusätzlich genannte Lufthansa-„ab"-Preise sind separate Einwegpreise ab HAM, nur zur Orientierung.
+
+#### Fr 01.01.2027 (Variante A, hin 30.12.)
+| Rückflug | Zeit | Round-Trip mit LH2062 (11:30 hin) | Round-Trip mit LH2054 (07:45 hin) |
+|---|---|---|---|
+| LH2077 (Lufthansa) | 19:35→20:50 | **214 €** (günstigster + spätester Abend-Rückflug) | 221 € |
+| EW7174 (Eurowings) | 19:10→20:25 | 233 € | 242 € |
+Tagesangebot 01.01.: 10:55, 13:35, 16:35, 19:10, 19:35. LH-Einweg „ab": LH2077 137,90 €, EW7174 159,90 € („5 Plätze zu diesem Preis übrig").
+
+#### Sa 02.01.2027 (Varianten B/C)
+Variante C (hin 30.12.):
+| Rückflug | Zeit | Round-Trip mit LH2062 (11:30 hin) | Round-Trip mit LH2054 (07:45 hin) |
+|---|---|---|---|
+| LH2071 | 17:05→18:20 | **211 €** (günstigster Abend-Rückflug) | 219 € |
+| LH2079 | 20:50→22:05 | 219 € (spätester) | 226 € |
+Variante B (hin 31.12.):
+| Rückflug | Zeit | Round-Trip mit LH2054/LH2062 hin | Round-Trip mit EW7171 (09:15 hin) |
+|---|---|---|---|
+| LH2071 | 17:05→18:20 | **215 €** (günstigster Abend-Rückflug) | 224 € |
+| LH2079 | 20:50→22:05 | 220 € (spätester) | 237 € |
+Tagesangebot 02.01.: 06:15, 09:05, 10:55, 13:35, 15:05, 17:05, 20:50; kein Eurowings-Abendflug. LH-Einweg „ab": LH2071 125,90 €, LH2079 137,90 €.
+
+#### So 03.01.2027 (Variante D, hin 31.12.)
+| Rückflug | Zeit | Round-Trip mit LH2054 (07:45 hin) | Round-Trip mit LH2062 (11:30 hin) | Round-Trip mit EW7171 (09:15 hin) |
+|---|---|---|---|---|
+| LH2073 | 18:05→19:20 | **161 €** (günstigster Abend-Rückflug, gleichauf) | 171 € | nicht angezeigt |
+| LH2079 | 20:50→22:05 | **161 €** (günstigster + spätester) | 171 € | 237 € |
+| EW7174 | 19:10→20:25 | 232 € | nicht angezeigt | 166 € |
+| LH2077 | 19:35→20:50 | 186 € | 194 € | 227 € |
+Tagesangebot 03.01.: 08:55, 10:55, 13:35, 15:05, 18:05, 19:10, 19:35, 20:50. LH-Einweg „ab": LH2073 137,90 €, EW7174 139,90 € („3 Plätze zu diesem Preis übrig"), LH2077 128,90 €, LH2079 137,90 €.
+Einschränkung: Momondo zeigte 38 von 40 rechnerischen Direkt-Kombis; die zwei fehlenden (EW7171 + LH2073, LH2062 + EW7174) konnten nicht bepreist werden und ändern die Aussagen zu günstigstem/spätestem Flug nicht.
